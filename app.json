@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "grocery",
-    "slug": "grocery"
+    "slug": "grocery",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "23a813b8-ff0b-4bc2-8b04-ed36f134ea0b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/23a813b8-ff0b-4bc2-8b04-ed36f134ea0b"
+    },
+    "android": {},
+    "ios": {}
   }
 }
